@@ -1,6 +1,6 @@
 import javax.swing.*;
 import java.awt.*;
-import java.awt.Color.*;
+import java.awt.Color;
 import java.awt.event.*;
 
 public class PatientForm extends JFrame implements ActionListener {
@@ -19,6 +19,7 @@ public class PatientForm extends JFrame implements ActionListener {
         setSize(400,300);
         setLocationRelativeTo(null);
         setLayout(new GridLayout(6,2,5,5));
+
         
 
         lblID = new JLabel("Patient ID");
