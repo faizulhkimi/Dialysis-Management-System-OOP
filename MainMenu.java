@@ -1,10 +1,10 @@
-import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
+import javax.swing.*;
 
 public class MainMenu extends JFrame implements ActionListener {
 
-    JButton btnPatient, btnSession, btnTreatment, btnBilling, btnExit;
+    JButton btnPatient, btnSession, btnTreatment, btnStaff, btnExit;
 
     public MainMenu() {
 
@@ -16,21 +16,21 @@ public class MainMenu extends JFrame implements ActionListener {
         getContentPane().setBackground(Color.WHITE);
 
         btnPatient = new JButton("Patient Management");
-        btnSession = new JButton("Session Booking");
+        btnSession = new JButton("Session Record");
         btnTreatment = new JButton("Treatment Record");
-        btnBilling = new JButton("Billing");
+        btnStaff = new JButton("Staff List");
         btnExit = new JButton("Exit");
 
         add(btnPatient);
         add(btnSession);
         add(btnTreatment);
-        add(btnBilling);
+        add(btnStaff);
         add(btnExit);
 
         btnPatient.addActionListener(this);
         btnSession.addActionListener(this);
         btnTreatment.addActionListener(this);
-        btnBilling.addActionListener(this);
+        btnStaff.addActionListener(this);
         btnExit.addActionListener(this);
 
         setVisible(true);
@@ -39,37 +39,40 @@ public class MainMenu extends JFrame implements ActionListener {
     public void actionPerformed(ActionEvent e) {
 
         if(e.getSource() == btnPatient) {
+            SoundPatientForm.playClick();
             new PatientForm();
         }
 
         if(e.getSource() == btnSession) {
+            SoundPatientForm.playClick();
             new SessionForm();
         }
 
         if(e.getSource() == btnTreatment) {
+            SoundPatientForm.playClick();
             new TreatmentForm();
         }
 
-        if(e.getSource() == btnBilling) {
-            new BillingForm();
+        if(e.getSource() == btnStaff) {
+            SoundPatientForm.playClick();
+            new StaffForm();
         }
 
         if(e.getSource() == btnExit) {
+            SoundPatientForm.playClick();
 
-    JOptionPane.showMessageDialog(
-        null,
-        "Thank You For Using\nDialysis Management System\n\n" +
-        "We Wish You Good Health.\n" +
-        "Take Care and Stay Safe."
-    );
+            JOptionPane.showMessageDialog(
+                null,
+                "Thank You For Using\nDialysis Management System\n\n" +
+                "We Wish You Good Health.\n" +
+                "Take Care and Stay Safe."
+            );
 
-    System.exit(0);
-}
+            System.exit(0);
+        }
     }
 
-    public static void main ( String[] args) {
+    public static void main(String[] args) {
         new MainMenu();
     }
-
-    
 }

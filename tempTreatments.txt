@@ -1,0 +1,45 @@
+Treatment ID          : T001
+Patient ID            : P001
+Medical Officer ID    : MO001
+Dialysis Assistant ID : DA001
+Blood Pressure        : 128/95
+Weight Before         : 70.0 kg
+Weight After          : 68.0 kg
+Treatment Status      : Completed
+--------------------------------
+Treatment ID          : T002
+Patient ID            : P002
+Medical Officer ID    : MO002
+Dialysis Assistant ID : DA002
+Blood Pressure        : 130/85
+Weight Before         : 78.0 kg
+Weight After          : 76.5 kg
+Treatment Status      : Ongoing
+--------------------------------
+Treatment ID          : T003
+Patient ID            : P003
+Medical Officer ID    : MO003
+Dialysis Assistant ID : DA003
+Blood Pressure        : 125/82
+Weight Before         : 62.0 kg
+Weight After          : 60.8 kg
+Treatment Status      : Completed
+--------------------------------
+Treatment ID          : T004
+Patient ID            : P004
+Medical Officer ID    : MO001
+Dialysis Assistant ID : DA002
+Blood Pressure        : 140/90
+Weight Before         : 72.0 kg
+Weight After          : 70.5 kg
+Treatment Status      : Cancelled
+--------------------------------
+Treatment ID          : T005
+Patient ID            : P005
+Medical Officer ID    : MO002
+Dialysis Assistant ID : DA001
+Blood Pressure        : 118/78
+Weight Before         : 58.0 kg
+Weight After          : 56.9 kg
+Treatment Status      : Completed
+--------------------------------

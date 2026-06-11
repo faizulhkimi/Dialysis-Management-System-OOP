@@ -1,0 +1,75 @@
+Patient ID             : P001
+Name                   : Aina Balqis Binti Ahmad
+Phone Number           : 0123456789
+Gender                 : Female
+Age                    : 45
+Height                 : 160.0 cm
+Weight                 : 65.0 kg
+Blood Type             : O
+Dialysis Type          : Hemodialysis
+Schedule Pattern       : Monday-Wednesday-Friday
+Session Time           : 12:00 PM
+Machine Number         : Machine 1
+Medical Officer ID     : MO001
+Dialysis Assistant ID  : DA001
+--------------------------------
+Patient ID             : P002
+Name                   : Amir Hakimi Bin Mohd Razali
+Phone Number           : 0198887777
+Gender                 : Male
+Age                    : 52
+Height                 : 170.0 cm
+Weight                 : 78.0 kg
+Blood Type             : A
+Dialysis Type          : Peritoneal Dialysis
+Schedule Pattern       : Tuesday-Thursday-Saturday
+Session Time           : 12:00 PM
+Machine Number         : Machine 2
+Medical Officer ID     : MO002
+Dialysis Assistant ID  : DA002
+--------------------------------
+Patient ID             : P003
+Name                   : Siti Nur Aisyah Binti Abdul Rahman
+Phone Number           : 0112223334
+Gender                 : Female
+Age                    : 39
+Height                 : 158.0 cm
+Weight                 : 62.0 kg
+Blood Type             : B
+Dialysis Type          : Hemodialysis
+Schedule Pattern       : Monday-Wednesday-Friday
+Session Time           : 4:00 PM
+Machine Number         : Machine 3
+Medical Officer ID     : MO003
+Dialysis Assistant ID  : DA003
+--------------------------------
+Patient ID             : P004
+Name                   : Muhammad Danish Bin Zulkifli
+Phone Number           : 0175566778
+Gender                 : Male
+Age                    : 60
+Height                 : 168.0 cm
+Weight                 : 72.0 kg
+Blood Type             : AB
+Dialysis Type          : Hemodialysis
+Schedule Pattern       : Tuesday-Thursday-Saturday
+Session Time           : 8:00 AM
+Machine Number         : Machine 4
+Medical Officer ID     : MO001
+Dialysis Assistant ID  : DA002
+--------------------------------
+Patient ID             : P005
+Name                   : Nurul Izzah Binti Ismail
+Phone Number           : 0139988776
+Gender                 : Female
+Age                    : 48
+Height                 : 155.0 cm
+Weight                 : 58.0 kg
+Blood Type             : O
+Dialysis Type          : Peritoneal Dialysis
+Schedule Pattern       : Monday-Wednesday-Friday
+Session Time           : 12:00 PM
+Machine Number         : Machine 1
+Medical Officer ID     : MO002
+Dialysis Assistant ID  : DA001
+--------------------------------

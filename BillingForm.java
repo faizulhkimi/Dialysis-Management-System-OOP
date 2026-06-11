@@ -63,6 +63,7 @@ public class BillingForm extends JFrame implements ActionListener {
 
         if(e.getSource() == btnCalculate) {
 
+            SoundPatientForm.playClick();
             double treatment =
                 Double.parseDouble(
                     txtTreatmentCost.getText());
@@ -82,6 +83,7 @@ public class BillingForm extends JFrame implements ActionListener {
 
         if(e.getSource() == btnClear) {
 
+            SoundPatientForm.playClick();
             txtPatientID.setText("");
             txtTreatmentCost.setText("");
             txtMedicationCost.setText("");

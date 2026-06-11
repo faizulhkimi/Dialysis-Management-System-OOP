@@ -1,4 +1,5 @@
 import javax.swing.*;
+
 import java.awt.*;
 import java.awt.event.*;
 
@@ -39,17 +40,15 @@ public class WelcomeScreen extends JFrame implements ActionListener {
 
         setVisible(true);
 
-        // Mainkan audio relax
+        // Mainkan audio relax dengan volume rendah.
         SoundPatientForm.playLoop("Relax.wav");
     }
 
-    @Override
     public void actionPerformed(ActionEvent e) {
 
         if(e.getSource() == btnStart) {
 
-            SoundPatientForm.playLoop("Relax.wav");
-
+            SoundPatientForm.playClick();
             dispose();
 
             new MainMenu();

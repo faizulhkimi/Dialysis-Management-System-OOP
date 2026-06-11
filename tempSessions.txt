@@ -1,0 +1,40 @@
+Session ID       : S001
+Patient ID       : P001
+Session Date     : 12/06/2026
+Schedule Pattern : Monday-Wednesday-Friday
+Session Time     : 12:00 PM
+Machine Number   : Machine 1
+Status           : Scheduled
+--------------------------------
+Session ID       : S002
+Patient ID       : P002
+Session Date     : 13/06/2026
+Schedule Pattern : Tuesday-Thursday-Saturday
+Session Time     : 12:00 PM
+Machine Number   : Machine 2
+Status           : Scheduled
+--------------------------------
+Session ID       : S003
+Patient ID       : P003
+Session Date     : 14/06/2026
+Schedule Pattern : Monday-Wednesday-Friday
+Session Time     : 4:00 PM
+Machine Number   : Machine 3
+Status           : Completed
+--------------------------------
+Session ID       : S004
+Patient ID       : P004
+Session Date     : 15/06/2026
+Schedule Pattern : Tuesday-Thursday-Saturday
+Session Time     : 8:00 AM
+Machine Number   : Machine 4
+Status           : Cancelled
+--------------------------------
+Session ID       : S005
+Patient ID       : P005
+Session Date     : 16/06/2026
+Schedule Pattern : Monday-Wednesday-Friday
+Session Time     : 12:00 PM
+Machine Number   : Machine 1
+Status           : Scheduled
+--------------------------------

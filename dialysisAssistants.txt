@@ -1,0 +1,27 @@
+Assistant ID : DA001
+Name         : Nur Haziqah Binti Roslan
+Phone Number : 0132223344
+Gender       : Female
+Age          : 29
+Height       : 158.0 cm
+Weight       : 55.0 kg
+Shift        : Morning
+--------------------------------
+Assistant ID : DA002
+Name         : Muhammad Syafiq Bin Rahman
+Phone Number : 0178886655
+Gender       : Male
+Age          : 31
+Height       : 169.0 cm
+Weight       : 70.0 kg
+Shift        : Afternoon
+--------------------------------
+Assistant ID : DA003
+Name         : Siti Khadijah Binti Ismail
+Phone Number : 0116677889
+Gender       : Female
+Age          : 27
+Height       : 160.0 cm
+Weight       : 57.0 kg
+Shift        : Evening
+--------------------------------
