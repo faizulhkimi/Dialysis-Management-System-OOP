@@ -43,3 +43,12 @@ Weight Before         : 58.0 kg
 Weight After          : 56.9 kg
 Treatment Status      : Completed
 --------------------------------
+Treatment ID          : 11
+Patient ID            : 122
+Medical Officer ID    : MO001
+Dialysis Assistant ID : DA001
+Blood Pressure        : 122
+Weight Before         : 81.0 kg
+Weight After          : 77.0 kg
+Treatment Status      : Completed
+--------------------------------

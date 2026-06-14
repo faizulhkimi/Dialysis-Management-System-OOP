@@ -73,3 +73,19 @@ Machine Number         : Machine 1
 Medical Officer ID     : MO002
 Dialysis Assistant ID  : DA001
 --------------------------------
+Patient ID             : 122
+Name                   : farid
+Phone Number           : 0137148735
+Gender                 : Male
+Age                    : 20
+Height                 : 170.0 cm
+Weight                 : 80.0 kg
+Blood Type             : O
+Dialysis Type          : Hemodialysis
+Schedule Pattern       : Monday-Wednesday-Friday
+Session Time           : 8:00 AM
+Machine Number         : Machine 4
+Treatment ID           : 11
+Medical Officer ID     : MO001
+Dialysis Assistant ID  : DA001
+--------------------------------

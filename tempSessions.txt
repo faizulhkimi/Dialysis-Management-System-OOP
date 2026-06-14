@@ -38,3 +38,11 @@ Session Time     : 12:00 PM
 Machine Number   : Machine 1
 Status           : Scheduled
 --------------------------------
+Session ID       : 11
+Patient ID       : 122
+Session Date     : 1/1/2026
+Schedule Pattern : Monday-Wednesday-Friday
+Session Time     : 8:00 AM
+Machine Number   : Machine 4
+Status           : Scheduled
+--------------------------------
