@@ -5,16 +5,16 @@ import java.awt.event.*;
 
 public class BillingForm extends JFrame implements ActionListener {
 
-    JLabel lblPatientID,
-           lblTreatmentCost,
-           lblMedicationCost;
+    JLabel lblPatientID;
+    JLabel lblTreatmentCost;
+    JLabel lblMedicationCost;
 
-    JTextField txtPatientID,
-               txtTreatmentCost,
-               txtMedicationCost;
+    JTextField txtPatientID;
+    JTextField txtTreatmentCost;
+    JTextField txtMedicationCost;
 
-    JButton btnCalculate,
-            btnClear;
+    JButton btnCalculate;
+    JButton btnClear;
 
     public BillingForm() {
 
