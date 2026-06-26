@@ -6,11 +6,20 @@ import javax.swing.*;
 
 public class TreatmentForm extends JFrame implements ActionListener {
 
-    JLabel lblTreatmentID, lblPatientID, lblMO, lblDA,
-           lblBloodPressure, lblWeightBefore, lblWeightAfter, lblStatus;
+    JLabel lblTreatmentID;
+    JLabel lblPatientID;
+    JLabel lblMO;
+    JLabel lblDA;
+    JLabel lblBloodPressure;
+    JLabel lblWeightBefore;
+    JLabel lblWeightAfter;
+    JLabel lblStatus;
 
-    JTextField txtTreatmentID, txtPatientID,
-               txtBloodPressure, txtWeightBefore, txtWeightAfter;
+    JTextField txtTreatmentID;
+    JTextField txtPatientID;
+    JTextField txtBloodPressure;
+    JTextField txtWeightBefore;
+    JTextField txtWeightAfter;
 
     JComboBox<String> cmbMO, cmbDA, cmbStatus;
 
